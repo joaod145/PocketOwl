@@ -1,0 +1,10 @@
+# Rust
+host/target/
+
+# Python
+pico/picow-v1.27.0-pimoroni-micropython.uf2
+
+# OS
+.DS_Store
+Thumbs.db
+todo.txt
